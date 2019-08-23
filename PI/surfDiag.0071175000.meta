@@ -1,0 +1,14 @@
+ nDims = [   2 ];
+ dimList = [
+    72,    1,   72,
+   140,    1,  140
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [    10 ];
+ timeStepNumber = [   71175000 ];
+ timeInterval = [  1.009152000000E+12  1.024920000000E+12 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   10 ];
+ fldList = {
+ 'ETAN    ' 'ETANSQ  ' 'DETADT2 ' 'PHIBOT  ' 'PHIBOTSQ' 'DICTFLX ' 'DICOFLX ' 'DICCFLX ' 'DICPCO2 ' 'DICPHAV '
+ };
