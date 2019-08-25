@@ -1,0 +1,15 @@
+ nDims = [   3 ];
+ dimList = [
+    72,    1,   72,
+   140,    1,  140,
+    29,    1,   29
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [     2 ];
+ timeStepNumber = [   67890000 ];
+ timeInterval = [  9.618480000000E+11  9.776160000000E+11 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [    2 ];
+ fldList = {
+ 'THETA   ' 'SALT    '
+ };
